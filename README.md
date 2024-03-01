@@ -25,20 +25,20 @@ $ npm run start
 
 ## 🛠️ Como utlizar
 
-### Andaime de código
+### ⚙️ Andaime de código
 
 * Execute `ng generate component nome-do-componente` para gerar um novo componente.
 * Você também pode usar `ng generate directiva|pipe|service|class|guard|interface|enum|module`.
 
-### Building
+### 🏗️ Building
 
 * Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
 
-### Executando testes unitários
+### 🧪 Executando testes unitários
 
 * Execute `ng test` para executar os testes de unidade via [Karma](https://karma-runner.github.io).
 
-### Executando testes ponta a ponta
+### 🧪 Executando testes ponta a ponta
 
 * Execute `ng e2e` para executar os testes ponta a ponta através de uma plataforma de sua escolha. 
 * Para usar este comando, você precisa primeiro adicionar um pacote que implemente recursos de teste ponta a ponta.
